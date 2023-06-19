@@ -9,3 +9,4 @@ Ratings Summary: The dashboard summarizes the distribution of ratings and reveal
 Yearly Production Report: It presents a report on the production of movies and TV shows over the years 2010 to 2021, providing insights into the growth and trends in the industry.
 
 The dashboard aims to provide a comprehensive understanding of the Netflix dataset, enabling users to explore production trends, popular genres, and ratings distribution.
+the Datasets were collected from : https://www.buymeacoffee.com/jiejenn/e/131884
